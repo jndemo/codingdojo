@@ -1,5 +1,5 @@
 //simple node app
-const status = "online";
+const status = "offline";
 
 function verifyAppIsOnline(){
   return status == "online" ? true : false;
